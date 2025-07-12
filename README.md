@@ -1,5 +1,5 @@
 # Employee-attrition-analysis
-#  Employee Attrition Analysis Dashboard
+
 
 An interactive Tableau dashboard that analyzes employee attrition patterns across various dimensions such as department, age group, gender, marital status, and job role. This tool helps HR teams identify trends, spot high-risk groups, and design better retention strategies.
 
