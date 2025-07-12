@@ -88,7 +88,7 @@ To provide an interactive tool that helps:
 
 ## 📷 Dashboard Preview
 
-![Employee Attrition Dashboard](images/Employee_Attrition_Dashboard.png)
+![Employee Attrition Dashboard](https://github.com/iamsunaina1/Employee-attrition-analysis-Tableau/blob/main/snapshot%20of%20the%20dashboard.png)
 
 ---
 
