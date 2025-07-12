@@ -6,7 +6,7 @@ An interactive Tableau dashboard that analyzes employee attrition patterns acros
 ---
 
 
-## 📝 Short Description / Purpose
+##  Short Description 
 
 The Employee Attrition Analysis dashboard is designed to help HR teams and business leaders understand the underlying reasons behind employee turnover. Using historical HR data, the dashboard visualizes key patterns and trends across departments, job roles, age groups, and genders.
 
@@ -20,17 +20,17 @@ By offering a comprehensive view of workforce dynamics, the dashboard empowers o
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-- 📊 Tableau Desktop – for building and publishing interactive dashboards
-- 📂 Excel / CSV – source data preprocessing
-- 📁 File Format – `.twbx` (dashboard file), `.csv` (dataset), `.png` (dashboard screenshot)
+-  Tableau Desktop – for building and publishing interactive dashboards
+-  Excel / CSV – source data preprocessing
+-  File Format – `.twbx` (dashboard file), `.csv` (dataset), `.png` (dashboard screenshot)
 
 ---
 
-## 🔍 Data Source
+##  Data Source
 
-**File:** `WA_Fn-UseC_-HR-Employee-Attrition.csv`  
+**File:** `WA_Fn-UseC_-HR-Employee-Attrition.csv`  (kaggle)
 The dataset includes employee-level HR data with fields such as:
 
 - Age, Department, Job Role
@@ -40,9 +40,9 @@ The dataset includes employee-level HR data with fields such as:
 
 ---
 
-## ✨ Features / Highlights
+##  Features 
 
-### 🎯 Business Problem
+###  Business Problem
 
 Employee turnover is costly and disruptive. HR teams often lack a visual, data-driven way to pinpoint the departments or demographics with high attrition. Key questions include:
 
@@ -52,7 +52,7 @@ Employee turnover is costly and disruptive. HR teams often lack a visual, data-d
 
 ---
 
-### 🎯 Goal of the Dashboard
+###  Goal of the Dashboard
 
 To provide an interactive tool that helps:
 
@@ -62,7 +62,7 @@ To provide an interactive tool that helps:
 
 ---
 
-## 📊 Walkthrough of Key Visuals
+##  Walkthrough of Key Visuals
 
 - **Total Employees / Attrition Count / Active Employees / Attrition Rate KPIs**
 - **Department-wise Attrition** – Donut chart showing where attrition is highest
@@ -74,7 +74,7 @@ To provide an interactive tool that helps:
 
 ---
 
-## 📈 Business Impact & Insights
+##  Business Impact & Insights
 
 - Sales and R&D departments experience the highest attrition.
 - Employees doing overtime are more likely to leave.
@@ -92,7 +92,7 @@ To provide an interactive tool that helps:
 
 ---
 
-## 📥 How to Use
+##  How to Use
 
 1. Download the `.twbx` (Tableau packaged workbook) file from this repository.
 2. Open it using [Tableau Desktop](https://www.tableau.com/products/desktop).
@@ -100,11 +100,11 @@ To provide an interactive tool that helps:
 
 ---
 
-## 📇 Author
+##  Author
 
-**Sunaina** – Data Analytics Learner  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-ID)  
-📬 [GitHub Portfolio](https://github.com/YOUR-USERNAME)
+**Sunaina** – Aspiring Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-p-a-9704ba372/)  
+📬 [GitHub Portfolio](https://github.com/iamsunaina1)
 
 ---
 
