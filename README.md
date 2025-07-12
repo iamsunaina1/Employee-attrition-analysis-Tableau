@@ -36,7 +36,7 @@ The dataset includes employee-level HR data with fields such as:
 - Age, Department, Job Role
 - Marital Status, Gender
 - Monthly Income, Overtime, Total Working Years
-- Attrition Flag (Yes/No)
+- Attrition Flag 
 
 ---
 
