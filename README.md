@@ -1,13 +1,22 @@
-# Employee-attrition-analysis
+# Employee-attrition-analysis-Dashboard
 
 
 An interactive Tableau dashboard that analyzes employee attrition patterns across various dimensions such as department, age group, gender, marital status, and job role. This tool helps HR teams identify trends, spot high-risk groups, and design better retention strategies.
 
 ---
 
+
 ## 📝 Short Description / Purpose
 
-The Employee Attrition Analysis dashboard is designed to help HR teams and business leaders understand why employees leave the organization. It provides data-driven insights into workforce dynamics such as department-wise attrition, overtime impact, gender differences, and age-group-based trends.
+The Employee Attrition Analysis dashboard is designed to help HR teams and business leaders understand the underlying reasons behind employee turnover. Using historical HR data, the dashboard visualizes key patterns and trends across departments, job roles, age groups, and genders.
+
+It enables stakeholders to:
+- Detect early warning signs of attrition
+- Identify high-risk employee segments based on overtime, job satisfaction, and monthly income
+- Explore differences in attrition behavior across demographic and professional factors
+- Design more effective, data-driven employee engagement and retention strategies
+
+By offering a comprehensive view of workforce dynamics, the dashboard empowers organizations to reduce employee churn, improve satisfaction, and optimize workforce planning.
 
 ---
 
